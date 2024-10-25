@@ -1,0 +1,11 @@
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\bin\Debug\AppQLNhaThuoc.exe.config
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\bin\Debug\AppQLNhaThuoc.exe
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\bin\Debug\AppQLNhaThuoc.pdb
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.csproj.AssemblyReference.cache
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.Home.resources
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.Properties.Resources.resources
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.csproj.GenerateResource.cache
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.csproj.CoreCompileInputs.cache
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.exe
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.pdb
+D:\Nam_IV\HK1\CSDLPT\AppWinForm\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.ChiNhanh.resources
