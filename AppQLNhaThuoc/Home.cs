@@ -60,8 +60,8 @@ namespace AppQLNhaThuoc
 
         private void btnCate_Click(object sender, System.EventArgs e)
         {
-            openchildform(new Category());
-            Category category = new Category();
+            openchildform(new Warehouse());
+            Warehouse category = new Warehouse();
             category.ShowDialog();
         }
 

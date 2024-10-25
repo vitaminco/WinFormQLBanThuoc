@@ -1,6 +1,6 @@
 ﻿namespace AppQLNhaThuoc
 {
-    partial class Category
+    partial class Warehouse
     {
         /// <summary>
         /// Required designer variable.

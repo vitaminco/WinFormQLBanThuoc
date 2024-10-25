@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AppQLNhaThuoc
 {
-    public partial class Category : Form
+    public partial class Warehouse : Form
     {
-        public Category()
+        public Warehouse()
         {
             InitializeComponent();
         }
