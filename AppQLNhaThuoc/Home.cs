@@ -1,7 +1,5 @@
 ﻿
-using System.Data;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.Tab;
 
 namespace AppQLNhaThuoc
 {

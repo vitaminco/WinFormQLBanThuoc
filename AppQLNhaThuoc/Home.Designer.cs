@@ -35,16 +35,14 @@
             this.btnMedi = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.data = new System.Windows.Forms.DataGridView();
             this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.data)).BeginInit();
             this.SuspendLayout();
             // 
             // btnChiNhanh
             // 
             this.btnChiNhanh.BackColor = System.Drawing.Color.MediumAquamarine;
             this.btnChiNhanh.ForeColor = System.Drawing.Color.White;
-            this.btnChiNhanh.Location = new System.Drawing.Point(11, 21);
+            this.btnChiNhanh.Location = new System.Drawing.Point(15, 57);
             this.btnChiNhanh.Name = "btnChiNhanh";
             this.btnChiNhanh.Size = new System.Drawing.Size(114, 40);
             this.btnChiNhanh.TabIndex = 0;
@@ -56,7 +54,7 @@
             // 
             this.btnOrder.BackColor = System.Drawing.Color.MediumAquamarine;
             this.btnOrder.ForeColor = System.Drawing.Color.White;
-            this.btnOrder.Location = new System.Drawing.Point(553, 21);
+            this.btnOrder.Location = new System.Drawing.Point(557, 57);
             this.btnOrder.Name = "btnOrder";
             this.btnOrder.Size = new System.Drawing.Size(114, 40);
             this.btnOrder.TabIndex = 0;
@@ -68,7 +66,7 @@
             // 
             this.btnEmploy.BackColor = System.Drawing.Color.MediumAquamarine;
             this.btnEmploy.ForeColor = System.Drawing.Color.White;
-            this.btnEmploy.Location = new System.Drawing.Point(737, 21);
+            this.btnEmploy.Location = new System.Drawing.Point(741, 57);
             this.btnEmploy.Name = "btnEmploy";
             this.btnEmploy.Size = new System.Drawing.Size(114, 40);
             this.btnEmploy.TabIndex = 0;
@@ -80,7 +78,7 @@
             // 
             this.btnCate.BackColor = System.Drawing.Color.MediumAquamarine;
             this.btnCate.ForeColor = System.Drawing.Color.White;
-            this.btnCate.Location = new System.Drawing.Point(180, 21);
+            this.btnCate.Location = new System.Drawing.Point(184, 57);
             this.btnCate.Name = "btnCate";
             this.btnCate.Size = new System.Drawing.Size(114, 40);
             this.btnCate.TabIndex = 0;
@@ -92,7 +90,7 @@
             // 
             this.btnMedi.BackColor = System.Drawing.Color.MediumAquamarine;
             this.btnMedi.ForeColor = System.Drawing.Color.White;
-            this.btnMedi.Location = new System.Drawing.Point(373, 21);
+            this.btnMedi.Location = new System.Drawing.Point(377, 57);
             this.btnMedi.Name = "btnMedi";
             this.btnMedi.Size = new System.Drawing.Size(114, 40);
             this.btnMedi.TabIndex = 0;
@@ -104,7 +102,7 @@
             // 
             this.btnExit.BackColor = System.Drawing.Color.Red;
             this.btnExit.ForeColor = System.Drawing.Color.Transparent;
-            this.btnExit.Location = new System.Drawing.Point(942, 21);
+            this.btnExit.Location = new System.Drawing.Point(946, 57);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(114, 40);
             this.btnExit.TabIndex = 0;
@@ -120,36 +118,24 @@
             this.groupBox1.Controls.Add(this.btnCate);
             this.groupBox1.Controls.Add(this.btnMedi);
             this.groupBox1.Controls.Add(this.btnOrder);
-            this.groupBox1.Location = new System.Drawing.Point(38, 23);
+            this.groupBox1.Location = new System.Drawing.Point(31, 236);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1075, 86);
+            this.groupBox1.Size = new System.Drawing.Size(1075, 147);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Option";
-            // 
-            // data
-            // 
-            this.data.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.data.Location = new System.Drawing.Point(38, 220);
-            this.data.Name = "data";
-            this.data.RowHeadersWidth = 51;
-            this.data.RowTemplate.Height = 24;
-            this.data.Size = new System.Drawing.Size(1075, 446);
-            this.data.TabIndex = 2;
-            this.data.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.data_CellContentClick);
             // 
             // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.RosyBrown;
             this.ClientSize = new System.Drawing.Size(1145, 678);
-            this.Controls.Add(this.data);
             this.Controls.Add(this.groupBox1);
             this.Name = "Home";
             this.Text = "Trang chủ";
             this.Load += new System.EventHandler(this.Home_Load);
             this.groupBox1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.data)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -163,7 +149,6 @@
         private System.Windows.Forms.Button btnMedi;
         private System.Windows.Forms.Button btnExit;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.DataGridView data;
     }
 }
 

@@ -42,6 +42,7 @@
             this.txtsoLuong = new System.Windows.Forms.TextBox();
             this.txtmaThuoc = new System.Windows.Forms.TextBox();
             this.txtmaDH = new System.Windows.Forms.TextBox();
+            this.btnCloseWa = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataWare)).BeginInit();
             this.Option.SuspendLayout();
@@ -70,6 +71,7 @@
             // 
             // Option
             // 
+            this.Option.Controls.Add(this.btnCloseWa);
             this.Option.Controls.Add(this.label4);
             this.Option.Controls.Add(this.label3);
             this.Option.Controls.Add(this.label2);
@@ -128,7 +130,7 @@
             // 
             this.delCate.BackColor = System.Drawing.Color.OliveDrab;
             this.delCate.ForeColor = System.Drawing.Color.White;
-            this.delCate.Location = new System.Drawing.Point(625, 105);
+            this.delCate.Location = new System.Drawing.Point(629, 91);
             this.delCate.Name = "delCate";
             this.delCate.Size = new System.Drawing.Size(122, 30);
             this.delCate.TabIndex = 5;
@@ -140,7 +142,7 @@
             // 
             this.updateCate.BackColor = System.Drawing.Color.OliveDrab;
             this.updateCate.ForeColor = System.Drawing.Color.White;
-            this.updateCate.Location = new System.Drawing.Point(625, 69);
+            this.updateCate.Location = new System.Drawing.Point(629, 55);
             this.updateCate.Name = "updateCate";
             this.updateCate.Size = new System.Drawing.Size(122, 30);
             this.updateCate.TabIndex = 6;
@@ -152,7 +154,7 @@
             // 
             this.addCate.BackColor = System.Drawing.Color.OliveDrab;
             this.addCate.ForeColor = System.Drawing.Color.White;
-            this.addCate.Location = new System.Drawing.Point(625, 33);
+            this.addCate.Location = new System.Drawing.Point(629, 19);
             this.addCate.Name = "addCate";
             this.addCate.Size = new System.Drawing.Size(122, 30);
             this.addCate.TabIndex = 7;
@@ -188,6 +190,18 @@
             this.txtmaDH.Size = new System.Drawing.Size(397, 22);
             this.txtmaDH.TabIndex = 0;
             // 
+            // btnCloseWa
+            // 
+            this.btnCloseWa.BackColor = System.Drawing.Color.Red;
+            this.btnCloseWa.ForeColor = System.Drawing.Color.White;
+            this.btnCloseWa.Location = new System.Drawing.Point(629, 133);
+            this.btnCloseWa.Name = "btnCloseWa";
+            this.btnCloseWa.Size = new System.Drawing.Size(122, 30);
+            this.btnCloseWa.TabIndex = 26;
+            this.btnCloseWa.Text = "Đóng";
+            this.btnCloseWa.UseVisualStyleBackColor = false;
+            this.btnCloseWa.Click += new System.EventHandler(this.btnCloseWa_Click);
+            // 
             // Warehouse
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -222,5 +236,6 @@
         private System.Windows.Forms.TextBox txtsoLuong;
         private System.Windows.Forms.TextBox txtmaThuoc;
         private System.Windows.Forms.TextBox txtmaDH;
+        private System.Windows.Forms.Button btnCloseWa;
     }
 }

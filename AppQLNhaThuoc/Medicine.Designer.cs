@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             this.Option = new System.Windows.Forms.GroupBox();
+            this.dateTimeHSD = new System.Windows.Forms.DateTimePicker();
+            this.lblMaCN = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -42,9 +45,7 @@
             this.txtMaT = new System.Windows.Forms.TextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.dataMedi = new System.Windows.Forms.DataGridView();
-            this.label5 = new System.Windows.Forms.Label();
-            this.dateTimeHSD = new System.Windows.Forms.DateTimePicker();
-            this.lblMaCN = new System.Windows.Forms.Label();
+            this.btnCloseMe = new System.Windows.Forms.Button();
             this.Option.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataMedi)).BeginInit();
@@ -52,6 +53,7 @@
             // 
             // Option
             // 
+            this.Option.Controls.Add(this.btnCloseMe);
             this.Option.Controls.Add(this.dateTimeHSD);
             this.Option.Controls.Add(this.lblMaCN);
             this.Option.Controls.Add(this.label5);
@@ -72,6 +74,31 @@
             this.Option.TabIndex = 3;
             this.Option.TabStop = false;
             this.Option.Text = "Option";
+            // 
+            // dateTimeHSD
+            // 
+            this.dateTimeHSD.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateTimeHSD.Location = new System.Drawing.Point(194, 147);
+            this.dateTimeHSD.Name = "dateTimeHSD";
+            this.dateTimeHSD.Size = new System.Drawing.Size(372, 22);
+            this.dateTimeHSD.TabIndex = 20;
+            // 
+            // lblMaCN
+            // 
+            this.lblMaCN.AutoSize = true;
+            this.lblMaCN.Location = new System.Drawing.Point(630, 133);
+            this.lblMaCN.Name = "lblMaCN";
+            this.lblMaCN.Size = new System.Drawing.Size(0, 16);
+            this.lblMaCN.TabIndex = 16;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(61, 146);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(36, 16);
+            this.label5.TabIndex = 16;
+            this.label5.Text = "HSD";
             // 
             // label4
             // 
@@ -113,7 +140,7 @@
             // 
             this.delMedi.BackColor = System.Drawing.Color.OliveDrab;
             this.delMedi.ForeColor = System.Drawing.Color.White;
-            this.delMedi.Location = new System.Drawing.Point(634, 86);
+            this.delMedi.Location = new System.Drawing.Point(633, 90);
             this.delMedi.Name = "delMedi";
             this.delMedi.Size = new System.Drawing.Size(122, 30);
             this.delMedi.TabIndex = 11;
@@ -125,7 +152,7 @@
             // 
             this.updateMedi.BackColor = System.Drawing.Color.OliveDrab;
             this.updateMedi.ForeColor = System.Drawing.Color.White;
-            this.updateMedi.Location = new System.Drawing.Point(634, 50);
+            this.updateMedi.Location = new System.Drawing.Point(633, 54);
             this.updateMedi.Name = "updateMedi";
             this.updateMedi.Size = new System.Drawing.Size(122, 30);
             this.updateMedi.TabIndex = 12;
@@ -137,7 +164,7 @@
             // 
             this.addMedi.BackColor = System.Drawing.Color.OliveDrab;
             this.addMedi.ForeColor = System.Drawing.Color.White;
-            this.addMedi.Location = new System.Drawing.Point(634, 14);
+            this.addMedi.Location = new System.Drawing.Point(633, 18);
             this.addMedi.Name = "addMedi";
             this.addMedi.Size = new System.Drawing.Size(122, 30);
             this.addMedi.TabIndex = 13;
@@ -194,30 +221,17 @@
             this.dataMedi.TabIndex = 0;
             this.dataMedi.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataMedi_CellContentClick);
             // 
-            // label5
+            // btnCloseMe
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(61, 146);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(36, 16);
-            this.label5.TabIndex = 16;
-            this.label5.Text = "HSD";
-            // 
-            // dateTimeHSD
-            // 
-            this.dateTimeHSD.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dateTimeHSD.Location = new System.Drawing.Point(194, 147);
-            this.dateTimeHSD.Name = "dateTimeHSD";
-            this.dateTimeHSD.Size = new System.Drawing.Size(372, 22);
-            this.dateTimeHSD.TabIndex = 20;
-            // 
-            // lblMaCN
-            // 
-            this.lblMaCN.AutoSize = true;
-            this.lblMaCN.Location = new System.Drawing.Point(631, 146);
-            this.lblMaCN.Name = "lblMaCN";
-            this.lblMaCN.Size = new System.Drawing.Size(0, 20);
-            this.lblMaCN.TabIndex = 16;
+            this.btnCloseMe.BackColor = System.Drawing.Color.Red;
+            this.btnCloseMe.ForeColor = System.Drawing.Color.White;
+            this.btnCloseMe.Location = new System.Drawing.Point(633, 132);
+            this.btnCloseMe.Name = "btnCloseMe";
+            this.btnCloseMe.Size = new System.Drawing.Size(122, 30);
+            this.btnCloseMe.TabIndex = 21;
+            this.btnCloseMe.Text = "Đóng";
+            this.btnCloseMe.UseVisualStyleBackColor = false;
+            this.btnCloseMe.Click += new System.EventHandler(this.btnCloseMe_Click);
             // 
             // Medicine
             // 
@@ -256,5 +270,6 @@
         private System.Windows.Forms.DateTimePicker dateTimeHSD;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label lblMaCN;
+        private System.Windows.Forms.Button btnCloseMe;
     }
 }

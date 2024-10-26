@@ -48,6 +48,7 @@
             this.txtmaKH = new System.Windows.Forms.TextBox();
             this.Option = new System.Windows.Forms.GroupBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnCloseEm = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataEmploy)).BeginInit();
             this.Option.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -214,6 +215,7 @@
             // 
             // Option
             // 
+            this.Option.Controls.Add(this.btnCloseEm);
             this.Option.Controls.Add(this.datengaysinh);
             this.Option.Controls.Add(this.label7);
             this.Option.Controls.Add(this.label4);
@@ -247,6 +249,18 @@
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Data";
+            // 
+            // btnCloseEm
+            // 
+            this.btnCloseEm.BackColor = System.Drawing.Color.Red;
+            this.btnCloseEm.ForeColor = System.Drawing.Color.White;
+            this.btnCloseEm.Location = new System.Drawing.Point(638, 223);
+            this.btnCloseEm.Name = "btnCloseEm";
+            this.btnCloseEm.Size = new System.Drawing.Size(122, 30);
+            this.btnCloseEm.TabIndex = 25;
+            this.btnCloseEm.Text = "Đóng";
+            this.btnCloseEm.UseVisualStyleBackColor = false;
+            this.btnCloseEm.Click += new System.EventHandler(this.btnCloseEm_Click);
             // 
             // Employ
             // 
@@ -288,5 +302,6 @@
         private System.Windows.Forms.TextBox txtmaKH;
         private System.Windows.Forms.GroupBox Option;
         private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Button btnCloseEm;
     }
 }
