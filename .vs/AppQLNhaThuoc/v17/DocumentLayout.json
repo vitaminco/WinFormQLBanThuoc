@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\appqlnhathuoc\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\appqlnhathuoc\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\appqlnhathuoc\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\appqlnhathuoc\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\appqlnhathuoc\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|d:\\nam_iv\\hk1\\csdlpt\\appqlnhathuoc\\appqlnhathuoc\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{81C87778-57CA-41DE-A1F3-C52F7A814A53}|AppQLNhaThuoc\\AppQLNhaThuoc.csproj|solutionrelative:appqlnhathuoc\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +66,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Order.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Order.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Order.cs",
+              "RelativeToolTip": "AppQLNhaThuoc\\Order.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAMwDgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:05:02.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -46,41 +92,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Warehouse.cs",
-              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Warehouse.cs",
-              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Warehouse.cs",
-              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Warehouse.cs",
-              "RelativeToolTip": "AppQLNhaThuoc\\Warehouse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAABDAAAA",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Home.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Home.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Home.cs",
+              "RelativeToolTip": "AppQLNhaThuoc\\Home.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAjwFgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:38:03.178Z",
+              "WhenOpened": "2024-10-26T11:46:14.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Warehouse.cs [Design]",
-              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Warehouse.cs",
-              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Warehouse.cs",
-              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Warehouse.cs [Design]",
-              "RelativeToolTip": "AppQLNhaThuoc\\Warehouse.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Home.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Home.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Home.cs [Design]",
+              "RelativeToolTip": "AppQLNhaThuoc\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:37:48.216Z",
+              "WhenOpened": "2024-10-26T11:45:55.954Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employ.cs",
-              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Employ.cs",
-              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Employ.cs",
-              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Employ.cs",
-              "RelativeToolTip": "AppQLNhaThuoc\\Employ.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAMwDMAAAAvAAAA",
+              "DocumentIndex": 11,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Medicine.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Medicine.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Medicine.cs",
+              "RelativeToolTip": "AppQLNhaThuoc\\Medicine.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAewHQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:33:39.101Z",
+              "WhenOpened": "2024-10-26T11:02:44.952Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medicine.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Medicine.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Medicine.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Medicine.cs [Design]",
+              "RelativeToolTip": "AppQLNhaThuoc\\Medicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:59:00.285Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -96,7 +154,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Employ.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Employ.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Employ.cs",
+              "RelativeToolTip": "AppQLNhaThuoc\\Employ.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAjwHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:33:39.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Branch.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Branch.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Branch.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Branch.cs [Design]",
+              "RelativeToolTip": "AppQLNhaThuoc\\Branch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:29:08.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Warehouse.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Warehouse.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Warehouse.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Warehouse.cs [Design]",
+              "RelativeToolTip": "AppQLNhaThuoc\\Warehouse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:37:48.216Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Warehouse.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Warehouse.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Warehouse.cs",
+              "RelativeToolTip": "AppQLNhaThuoc\\Warehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:38:03.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Option.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Option.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Option.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Option.cs [Design]",
+              "RelativeToolTip": "AppQLNhaThuoc\\Option.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:18:14.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs [Design]",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Order.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Order.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Order.cs [Design]",
+              "RelativeToolTip": "AppQLNhaThuoc\\Order.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:04:59.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Option.cs",
+              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Option.cs",
+              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Option.cs",
+              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Option.cs",
+              "RelativeToolTip": "AppQLNhaThuoc\\Option.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAMwCMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:29:57.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Branch.cs",
               "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Branch.cs",
               "RelativeDocumentMoniker": "AppQLNhaThuoc\\Branch.cs",
@@ -106,18 +251,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T05:30:11.582Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Branch.cs [Design]",
-              "DocumentMoniker": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Branch.cs",
-              "RelativeDocumentMoniker": "AppQLNhaThuoc\\Branch.cs",
-              "ToolTip": "D:\\Nam_IV\\HK1\\CSDLPT\\AppQLNhaThuoc\\AppQLNhaThuoc\\Branch.cs [Design]",
-              "RelativeToolTip": "AppQLNhaThuoc\\Branch.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T05:29:08.778Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

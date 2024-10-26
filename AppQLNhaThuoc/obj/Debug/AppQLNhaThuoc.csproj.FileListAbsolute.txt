@@ -39,3 +39,4 @@ D:\Nam_IV\HK1\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.csproj.Generat
 D:\Nam_IV\HK1\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.csproj.CoreCompileInputs.cache
 D:\Nam_IV\HK1\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.exe
 D:\Nam_IV\HK1\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.pdb
+D:\Nam_IV\HK1\CSDLPT\AppQLNhaThuoc\AppQLNhaThuoc\obj\Debug\AppQLNhaThuoc.Option.resources

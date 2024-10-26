@@ -96,5 +96,10 @@ namespace AppQLNhaThuoc
                 txtdonGia.Text = row.Cells["donGia"].Value.ToString();
             }
         }
+
+        private void btnCloseWa_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -108,5 +108,10 @@ namespace AppQLNhaThuoc
             txtdiaChi.Clear();
             txtgioiTinh.Clear();
         }
+
+        private void btnCloseEm_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

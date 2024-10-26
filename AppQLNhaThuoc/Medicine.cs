@@ -2,8 +2,6 @@
 using System;
 using System.Data;
 using System.Windows.Forms;
-using System.Xml.Linq;
-using static System.Runtime.CompilerServices.RuntimeHelpers;
 
 namespace AppQLNhaThuoc
 {
@@ -52,10 +50,38 @@ namespace AppQLNhaThuoc
             }
         }
 
-        private void updateMedi_Click(object sender, System.EventArgs e)
+        private void updateMedi_Click(object sender, EventArgs e)
         {
+            if (txtMaT.Text == "" || txtTenThuoc.Text == "" || txtSoLuong.Text == "" || txtGiaBan.Text == "" || dateTimeHSD.Text == "")
+            {
+                MessageBox.Show("Hãy nhập đủ thông tin", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            else
+            {
+                string maThuoc = txtMaT.Text;
+                string tenThuoc = txtTenThuoc.Text;
+                int soLuong = Convert.ToInt32(txtSoLuong.Text);
+                decimal giaBan = Convert.ToDecimal(txtGiaBan.Text);
+                DateTime hanSuDung = dateTimeHSD.Value;
 
+                // Câu lệnh UPDATE để cập nhật thông tin thuốc trong bảng THUOC
+                query = "UPDATE THUOC SET tenThuoc = N'" + tenThuoc + "', soLuong = " + soLuong + ", giaBan = " + giaBan + ", hanSuDung = '" + hanSuDung.ToString("MM/dd/yyyy") + "' WHERE maThuoc = '" + maThuoc + "'";
+
+                // Gọi phương thức setData để thực hiện câu lệnh SQL và thông báo
+                f.setData(query, "Cập nhật thông tin thuốc thành công");
+
+                // Tải lại dữ liệu trong bảng sau khi cập nhật
+                Medicine_Load(this, null);
+
+                // Xóa các trường sau khi cập nhật xong
+                txtMaT.Clear();
+                txtTenThuoc.Clear();
+                txtSoLuong.Clear();
+                txtGiaBan.Clear();
+                dateTimeHSD.Value = DateTime.Now;
+            }
         }
+
 
         private void delMedi_Click(object sender, System.EventArgs e)
         {
@@ -84,6 +110,11 @@ namespace AppQLNhaThuoc
                 dateTimeHSD.Text = row.Cells["hanSuDung"].Value.ToString();
                 lblMaCN.Text = row.Cells["maCN"].Value.ToString();
             }
+        }
+
+        private void btnCloseMe_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
