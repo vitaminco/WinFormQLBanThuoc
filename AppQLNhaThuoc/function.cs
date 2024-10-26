@@ -9,7 +9,7 @@ namespace AppQLNhaThuoc
         protected SqlConnection GetConnection()
         {
             SqlConnection conn = new SqlConnection();
-            conn.ConnectionString = "Data source =DESKTOP-9SAS8HE\\HUNGHUYNH; database=dbgym2;Integrated Security = true";
+            conn.ConnectionString = "Data source =DESKTOP-9SAS8HE\\HUNGHUYNH; database=CN01;Integrated Security = true";
             return conn;
         }
 
