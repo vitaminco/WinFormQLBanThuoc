@@ -52,7 +52,11 @@ namespace AppQLNhaThuoc
 
         private void addMedi_Click(object sender, System.EventArgs e)
         {
-            if (txtMaDH != null && txtMaKH != null)
+            if (txtMaDH == null)
+            {
+                MessageBox.Show("Vui lòng nhập.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            else
             {
                 openchildform(new Option());
                 Option option = new Option();
@@ -62,7 +66,7 @@ namespace AppQLNhaThuoc
 
         private void delMedi_Click(object sender, System.EventArgs e)
         {
-            if (lblMaCN is null)
+            if (lblMaCN is null && txtMaDH != null)
             {
                 string maDH = txtMaDH.Text;
                 string query = "DELETE FROM DONHANG WHERE maDH = '" + maDH + "'";
