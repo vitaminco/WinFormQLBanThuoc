@@ -31,6 +31,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.txtMaT = new System.Windows.Forms.TextBox();
+            this.btnCloseOp = new System.Windows.Forms.Button();
             this.delThuoc = new System.Windows.Forms.Button();
             this.updateThuoc = new System.Windows.Forms.Button();
             this.addThuoc = new System.Windows.Forms.Button();
@@ -42,7 +44,6 @@
             this.lblTen = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.dataOption = new System.Windows.Forms.DataGridView();
-            this.btnCloseOp = new System.Windows.Forms.Button();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -71,6 +72,7 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.txtMaT);
             this.groupBox2.Controls.Add(this.btnCloseOp);
             this.groupBox2.Controls.Add(this.delThuoc);
             this.groupBox2.Controls.Add(this.updateThuoc);
@@ -83,6 +85,25 @@
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Chức năng";
+            // 
+            // txtMaT
+            // 
+            this.txtMaT.Location = new System.Drawing.Point(58, 313);
+            this.txtMaT.Name = "txtMaT";
+            this.txtMaT.Size = new System.Drawing.Size(135, 22);
+            this.txtMaT.TabIndex = 17;
+            // 
+            // btnCloseOp
+            // 
+            this.btnCloseOp.BackColor = System.Drawing.Color.Red;
+            this.btnCloseOp.ForeColor = System.Drawing.Color.White;
+            this.btnCloseOp.Location = new System.Drawing.Point(55, 378);
+            this.btnCloseOp.Name = "btnCloseOp";
+            this.btnCloseOp.Size = new System.Drawing.Size(122, 30);
+            this.btnCloseOp.TabIndex = 14;
+            this.btnCloseOp.Text = "Đóng";
+            this.btnCloseOp.UseVisualStyleBackColor = false;
+            this.btnCloseOp.Click += new System.EventHandler(this.btnClose_Click);
             // 
             // delThuoc
             // 
@@ -116,6 +137,7 @@
             this.addThuoc.TabIndex = 16;
             this.addThuoc.Text = "Thêm";
             this.addThuoc.UseVisualStyleBackColor = false;
+            this.addThuoc.Click += new System.EventHandler(this.addThuoc_Click);
             // 
             // label1
             // 
@@ -201,18 +223,6 @@
             this.dataOption.TabIndex = 6;
             this.dataOption.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataOption_CellContentClick);
             // 
-            // btnCloseOp
-            // 
-            this.btnCloseOp.BackColor = System.Drawing.Color.Red;
-            this.btnCloseOp.ForeColor = System.Drawing.Color.White;
-            this.btnCloseOp.Location = new System.Drawing.Point(55, 378);
-            this.btnCloseOp.Name = "btnCloseOp";
-            this.btnCloseOp.Size = new System.Drawing.Size(122, 30);
-            this.btnCloseOp.TabIndex = 14;
-            this.btnCloseOp.Text = "Đóng";
-            this.btnCloseOp.UseVisualStyleBackColor = false;
-            this.btnCloseOp.Click += new System.EventHandler(this.btnClose_Click);
-            // 
             // Option
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -226,6 +236,7 @@
             this.Text = "Option";
             this.Load += new System.EventHandler(this.Option_Load);
             this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.panel1.ResumeLayout(false);
@@ -251,5 +262,6 @@
         private System.Windows.Forms.Label lblGia;
         private System.Windows.Forms.Label lblHSD;
         private System.Windows.Forms.Button btnCloseOp;
+        private System.Windows.Forms.TextBox txtMaT;
     }
 }
